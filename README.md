@@ -18,3 +18,10 @@ Completed.
 
 I completed exercises 1, 2, 3, 4.
 
+## Module 5
+
+I completed exercises 1, 2, 3, 4, 5, 6.
+
+## Project 2
+
+I modified the game project program by replacing and adding new details. Project 2 is now completed.
