@@ -41,3 +41,15 @@ Completed.
 ## Module 8
 
 I completed exercises 1, 2, 3.
+
+## Module 9
+
+I completed exercises 1, 2, 3, 4.
+
+## Module 10
+
+I completed exercises 1, 2, 3, 4.
+
+## Module 11
+
+I completed exercises 1, 2.
