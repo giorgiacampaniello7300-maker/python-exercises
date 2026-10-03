@@ -53,3 +53,7 @@ I completed exercises 1, 2, 3, 4.
 ## Module 11
 
 I completed exercises 1, 2.
+
+## Project 4
+
+Completed.
