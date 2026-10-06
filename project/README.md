@@ -2,7 +2,7 @@
 
 **Giorgia Campaniello**
 
-"Italian Wedding in Jeopardy" is an adventure game that tells the story of a chef who is called to save a wedding by creating a menu at the last minute in order to be able to prepare food for the wedding's guests. The wedding will be held in Sicily, in the south of Italy. Unfortunately, the chef lives in Milan, in the north of Italy, and he has just a few ingredients when he begins his journey to the south. He will face some hurdles and meet some nice people who will help him save the wedding. 
+"Italian Wedding in Jeopardy" is an adventure game that tells the story of a chef who is called to save a wedding by creating a menu at the last minute in order to be able to prepare food for the wedding's guests. The wedding will be held in Sicily, in the south of Italy. Unfortunately, the chef lives in Milan, in the north of Italy, and she has just a few ingredients when she begins her journey to the south. She will face some hurdles and meet some nice people who will help her save the wedding. 
 
 Game structure: 
 

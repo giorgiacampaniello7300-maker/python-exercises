@@ -1,0 +1,14 @@
+Welcome to "Italian Wedding in Jeopardy". 
+
+The wedding couple just lost their chef and is in desperate need of a new one, who will be able to get all the ingredients to create and prepare a traditional Italian wedding menu for all the guests.
+
+You are the Italian chef the wedding couple is looking for. The wedding will be held in Sicily, in the south of Italy, but unfortunately you live in Milan, in the north of Italy. 
+
+It's time to hurry and start looking for all the necessary ingredients to create the entire menu: 
+- mushroom risotto
+- pasta alla carbonara
+- steak 
+- potatoes
+- wedding cake
+
+If you don't manage to get all the ingredients, there won't be any wedding!

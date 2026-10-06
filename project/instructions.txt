@@ -1,0 +1,12 @@
+Your goal is to get all the necessary ingredients to create a traditional Italian wedding menu to save the wedding.
+
+Commands:
+- "Explore": walk and look around to find ingredients and supplies, change city
+- "Eat": restore your energy
+- "Collect": collect items while you explore the cities
+- "Use": use an item you collected or exchange it (exchange option not available yet)
+- "Inventory": see all the items you have collected
+- "Save": save the progress and continue later
+
+Pay attention to capital letters. Type commands and item names exactly as shown.
+Type "lopeta" to end the game.
