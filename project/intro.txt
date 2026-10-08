@@ -6,9 +6,9 @@ You are the Italian chef the wedding couple is looking for. The wedding will be 
 
 It's time to hurry and start looking for all the necessary ingredients to create the entire menu: 
 - mushroom risotto
-- pasta alla carbonara
+- pasta carbonara
 - steak 
 - potatoes
 - wedding cake
 
-If you don't manage to get all the ingredients, there won't be any wedding!
+Good luck!
